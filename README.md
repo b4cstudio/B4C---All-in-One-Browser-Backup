@@ -13,8 +13,9 @@ B4C - All in one Browser Backup and Transfer supports almost all of Chrominum ba
   
 ## Screenshot and Media
 <p align="center">
-<img src="Screenshot/1.PNG" alt="B4C - All-in-One Browser Backup screentshot" width="240" /> 
 <img src="Screenshot/2.PNG" alt="B4C - All-in-One Browser Backup screentshot" width="240" /> 
+<img src="Screenshot/3.PNG" alt="B4C - All-in-One Browser Backup screentshot" width="240" /> 
+<img src="Screenshot/5.PNG" alt="B4C - All-in-One Browser Backup screentshot" width="240" /> 
 </p>
 
 ## Download and Installation
